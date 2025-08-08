@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-render",
+  "version": "1.0.0",
+  "description": "A Puppeteer bot to take Fiverr screenshots of 'retell ai' search results",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["puppeteer", "fiverr", "retell ai", "screenshot", "automation"],
+  "author": "Scott Coleman",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "puppeteer": "^19.7.2"
+  }
+}
